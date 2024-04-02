@@ -3,12 +3,38 @@
 
 /* Make your p tag a different color and italic */
 
+
 /* Put a border around your image */
 
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
-h1{ background-color:violet ;align-items: center;font-family: 'Times New Roman', Times, serif;font: bold;}
-p{background-color: aquamarine;font: lighter;font-family: 'Times New Roman', Times, serif;}
-img{border: 7px; ;}
-footer{background-color:lemonchiffon;}
+header {
+    background-color: violet;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    
+}
+
+footer{
+    background-color: aquamarine;
+    font: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+main {
+    background-color: palegreen;
+    font: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+
+img {
+    border: 15px;
+    border-style: ridge;
+    border-color: greenyellow;
+}
